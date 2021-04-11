@@ -1,2 +1,2 @@
 # find-my-book
-Digital book library to find your favorite titlea!
+Digital book library to find your favorite titles!
